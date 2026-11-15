@@ -1,6 +1,6 @@
 # My Favoite Series / Movies
 ## Absolute Favorite
-[**The Legend of Luo XiaoHei**](myanimelist.net/anime/40211/Luo_Xiaohei_Zhanji_Movie)
+[**The Legend of Luo XiaoHei**](https://myanimelist.net/anime/40211/Luo_Xiaohei_Zhanji_Movie)
 
 <a href="https://myanimelist.net/anime/40211/Luo_Xiaohei_Zhanji_Movie">
   <img src="https://cdn.myanimelist.net/images/anime/1583/108598l.jpg" alt="Image from MyAnimeList" width="200">
